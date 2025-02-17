@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to YourBank loans related prod APIs "
+  message: "Welcome to YourBank loans related production APIs "
   contactDetails:
     name: "Peter Pan - Product Owner"
     email: "petar@yourbank.com"
