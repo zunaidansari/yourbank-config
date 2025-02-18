@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to YourBank accounts related webhook APIs "
+  message: "Welcome to YourBank accounts related prod APIs "
   contactDetails:
     name: "Zunaid Ansari - Product Owner"
     email: "zunaid@yourbank.com"
