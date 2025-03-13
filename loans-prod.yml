@@ -4,8 +4,8 @@ build:
 loans:
   message: "Welcome to YourBank loans related prod APIs "
   contactDetails:
-    name: "Peter Pan - Product Owner"
-    email: "petar@yourbank.com"
+    name: "Pelias Sudhir - Product Owner"
+    email: "pelias@yourbank.com"
   onCallSupport:
     - (723) 656-8709
     - (156) 342-0956
