@@ -4,8 +4,8 @@ build:
 loans:
   message: "Welcome to YourBank loans related local APIs "
   contactDetails:
-    name: "Emilia Grega - Developer"
-    email: "emilia@yourbank.com"
+    name: "Amaal Grega - Developer"
+    email: "amaal@yourbank.com"
   onCallSupport:
     - (452) 456-2176
     - (546) 764-8934
