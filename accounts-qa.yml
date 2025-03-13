@@ -4,8 +4,8 @@ build:
 accounts:
   message: "Welcome to YourBank accounts related QA APIs "
   contactDetails:
-    name: "Zunaid Ansari - QA Lead"
-    email: "zunaid@yourbank.com"
+    name: "Smitha Ray - QA Lead"
+    email: "smitha@yourbank.com"
   onCallSupport:
     - (666) 265-3765
     - (666) 734-8371
