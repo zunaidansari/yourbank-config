@@ -4,8 +4,8 @@ build:
 loans:
   message: "Welcome to YourBank loans related QA APIs "
   contactDetails:
-    name: "Cleo Petra - QA Lead"
-    email: "cleo@yourbank.com"
+    name: "Cyrano Marita - QA Lead"
+    email: "cyrano@yourbank.com"
   onCallSupport:
     - (785) 545-6565
     - (853) 546-3467
