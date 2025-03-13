@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to YourBank accounts related local APIs "
   contactDetails:
     name: "John Doe - Developer"
-    email: "john@yourbank.com"
+    email: "{cipher}117ffa6b25e442d371afd0a2fcfd27d4a581d4b459192a38d612c6bb3ad762b3ca802e6b1a45c7c6e29f21ce165d6ac3"
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
