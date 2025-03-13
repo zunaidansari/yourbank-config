@@ -4,8 +4,8 @@ build:
 cards:
   message: "Welcome to YourBank cards related local APIs "
   contactDetails:
-    name: "Bruce Lee - Developer"
-    email: "bruce@yourbank.com"
+    name: "Dragos Lech - Developer"
+    email: "dragos@yourbank.com"
   onCallSupport:
     - (412) 419-3491
     - (915) 382-1932
